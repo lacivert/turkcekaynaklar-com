@@ -2,7 +2,7 @@
 
 Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
-### [http://turkcekaynaklar.com](http://turkcekaynaklar.com)
+### [https://lacivert.github.io/turkcekaynaklar-com](https://lacivert.github.io/turkcekaynaklar-com)
 ### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
 
 ---
